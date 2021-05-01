@@ -6,4 +6,9 @@
     <string name="genre">Genre:</string>
     <string name="bands">Bands:</string>
     <string name="_3"><![CDATA[<3]]></string>
+    <string name="log_in">LOG IN</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter email</string>
 </resources>
