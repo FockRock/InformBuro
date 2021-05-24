@@ -10,13 +10,6 @@ class LoginActivity: AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.login_sreen)
 
-        loginButton.isEnabled = false
-
-        loginButton.setOnClickListener {
-            if (editTextEmailAddress.text.isNotEmpty() && editTextPassword.text.isNotEmpty()) {
-                loginButton.isEnabled
-            } else !loginButton.isEnabled
-        }
 
     }
 }
